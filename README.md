@@ -1,6 +1,6 @@
-## Adobe-Hackathon-2025-Round-1B
-# Theme: “Connect What Matters — For the User Who Matters”
-# Round 1B: Persona-Driven Document Intelligence
+# Adobe-Hackathon-2025-Round-1B
+## Theme: “Connect What Matters — For the User Who Matters”
+## Round 1B: Persona-Driven Document Intelligence
 
 ## 🚀 How It Works
 
